@@ -1,0 +1,51 @@
+5
+Nguyen  Ngoc Quyen
+nu
+11
+nhay day
+co tuong
+co vua
+choi game
+bong ban
+Dia chi: Quang Nam
+SDT:01010101010
+Nguyen Thanh Hoang
+nam
+12
+bong ban
+nhay day
+da cau
+coi phim
+da bong
+Dia chi: Nam Dinh
+SDT:0101024
+Nguyen Thi Lan Anh
+nu
+13
+mua
+ve
+hoc
+choi game
+bay
+Dia chi: Tay Ninh
+SDT: 02030405
+Nguyen Lan Trinh
+nu
+14
+du lich
+da cau
+cau long
+nau an
+ngu
+Dia chi: Quang Nam
+SDT:0384563259
+Le Ngoc Tuyet
+nu
+15
+di dao
+di phuoc
+da bong
+choi game
+sach se
+Dia chi: Da Nang
+SDT: 0384535074
